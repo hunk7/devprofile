@@ -1,0 +1,33 @@
+/* Engineering White (default/light) */
+:root {
+  --color-bg: #F7F7F5;
+  --color-surface: #FFFFFF;
+  --color-elevated: #FFFFFF;
+  --color-text: #111111;
+  --color-text-secondary: #545454;
+  --color-border: #D8D8D2;
+  --color-accent: #7C3AED;
+  --color-success: #15803D;
+}
+
+/* Obsidian Black (dark) */
+.dark {
+  --color-bg: #070707;
+  --color-surface: #111111;
+  --color-elevated: #171717;
+  --color-text: #F5F5F5;
+  --color-text-secondary: #A3A3A3;
+  --color-border: #2B2B2B;
+  --color-accent: #A78BFA;
+  --color-success: #4ADE80;
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

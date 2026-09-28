@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hunk7.github.io/sitemap.xml
