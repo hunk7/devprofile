@@ -1,21 +1,15 @@
-﻿<div align="center">
-
-# 👋 devprofile
-
-### Ganesh Bhadra's Developer Profile
+﻿# 👋 devprofile — Ganesh Bhadra's Developer Profile
 
 **A personal, single-page portfolio built to showcase my work as a Product Developer** — highlighting my experience, projects, skills, certifications, and GitHub activity in one focused, modern web app.
 
-[![Deploy to GitHub Pages](https://github.com/hunk7/devprofile/actions/workflows/deploy.yml/badge.svg)](https://github.com/hunk7/devprofile/actions/workflows/deploy.yml)
-![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)
-![License](https://img.shields.io/badge/license-Personal_Project-lightgrey)
+[![Deploy Status](https://img.shields.io/github/actions/workflow/status/hunk7/devprofile/deploy.yml?branch=main&label=deploy&logo=githubactions&logoColor=white)](https://github.com/hunk7/devprofile/actions/workflows/deploy.yml)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/license-Personal_Project-lightgrey)](#-license)
 
-🔗 **[View Live Site →](https://hunk7.github.io/devprofile/)**
-
-</div>
+🔗 **Live site:** [hunk7.github.io/devprofile](https://hunk7.github.io/devprofile/)
 
 ---
 
@@ -108,10 +102,6 @@ Every push to `main` triggers a GitHub Actions workflow ([`.github/workflows/dep
 
 This is a personal portfolio project. Feel free to use it as inspiration for your own dev profile — just make it yours! 🚀
 
-<div align="center">
-
 ---
 
-Built with ❤️ by [Ganesh Bhadra](https://github.com/hunk7)
-
-</div>
+_Built with ❤️ by [Ganesh Bhadra](https://github.com/hunk7)_
